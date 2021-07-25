@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
-@import './_0-style.css';
-@import './_1-body.css';
-@import './_2-typography.css';
-@import './_3-header.css';
-@import './_4-form.css';
-@import './_a-custom-select.css';
+@import './fcc-survey-form/_0-style.css';
+@import './fcc-survey-form/_1-body.css';
+@import './fcc-survey-form/_2-typography.css';
+@import './fcc-survey-form/_3-header.css';
+@import './fcc-survey-form/_4-form.css';
+@import './fcc-survey-form/_a-custom-select.css';
