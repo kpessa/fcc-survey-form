@@ -16,7 +16,5 @@
     "url": "https://github.com/kpessa/fcc-survey-form/issues"
   },
   "homepage": "https://github.com/kpessa/fcc-survey-form#readme",
-  "dependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "dependencies": {}
 }
